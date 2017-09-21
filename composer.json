@@ -1,0 +1,15 @@
+{
+    "name": "root/desafio_grgi",
+    "authors": [
+        {
+            "name": "Diego Furtado",
+            "email": "furtado.diegos@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
